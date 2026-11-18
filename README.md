@@ -52,16 +52,48 @@ Selected public applications and upcoming work. Linked cards open the deployed a
     <img src="./assets/resume-analyzer-light.svg" width="360" alt="AI Resume Analyzer — AI-assisted resume analysis. Open the live application." />
   </picture>
   </a>
+  <a href="https://finance-nxt.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/fintrack-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/fintrack-light.svg" />
-    <img src="./assets/fintrack-light.svg" width="360" alt="FinTrack — Live URL pending verification." />
+    <img src="./assets/fintrack-light.svg" width="360" alt="FinTrack ? Spending, budgets, and financial goals. Open the live application." />
   </picture>
+  </a>
+  <a href="https://rrempdashboard.netlify.app/dashboard">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/employee-dashboard-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/employee-dashboard-light.svg" />
-    <img src="./assets/employee-dashboard-light.svg" width="360" alt="Employee Dashboard — Live URL pending verification." />
+    <img src="./assets/employee-dashboard-light.svg" width="360" alt="Employee Dashboard ? An employee management workspace. Open the live application." />
   </picture>
+  </a>
+  <a href="https://mario-n-mush.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/mario-mushroom-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/mario-mushroom-light.svg" />
+    <img src="./assets/mario-mushroom-light.svg" width="360" alt="Mario &amp; Mushroom ? A mushroom-collecting maze adventure. Open the live application." />
+  </picture>
+  </a>
+  <a href="https://elit-vitae-recipe.netlify.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/recipe-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/recipe-light.svg" />
+    <img src="./assets/recipe-light.svg" width="360" alt="RecipeP ? Discover recipes by ingredients. Open the live application." />
+  </picture>
+  </a>
+  <a href="https://elitvitae.netlify.app/#/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/elit-vitae-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/elit-vitae-light.svg" />
+    <img src="./assets/elit-vitae-light.svg" width="360" alt="Elit Vitae Blog ? Technology, wellbeing, and everyday ideas. Open the live application." />
+  </picture>
+  </a>
+  <a href="https://vikasx-crypto-app-0cf209i.netlify.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/cryptodash-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/cryptodash-light.svg" />
+    <img src="./assets/cryptodash-light.svg" width="360" alt="CryptoDash ? Crypto markets, watchlists, and history. Open the live application." />
+  </picture>
+  </a>
   <a href="https://vikas-mishra.vercel.app/">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/portfolio-dark.svg" />
@@ -76,8 +108,8 @@ Selected public applications and upcoming work. Linked cards open the deployed a
   </picture>
 </p>
 
-<!-- Maintainer note: FinTrack, Employee Dashboard, and More projects are intentionally
-unlinked placeholders. Add only verified public deployment URLs. Project source
+<!-- Maintainer note: More projects is an intentionally unlinked placeholder.
+Add only verified public deployment URLs. Project source
 repositories are private; do not add source-code links, repository statistics,
 or internal implementation details. -->
 

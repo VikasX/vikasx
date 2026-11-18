@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="188" viewBox="0 0 360 188" fill="none">
+  <title>RecipeP ? live application</title>
+  <desc>Discover recipes by ingredients.</desc>
+  <rect x=".5" y=".5" width="359" height="175" rx="10" fill="#F8FAFC" stroke="#D9E1EB"/>
+  <rect x="20" y="22" width="43" height="43" rx="10" fill="#33714D" fill-opacity=".1"/>
+  <g transform="translate(28 29)" stroke="#33714D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4H11C13 4 14 5 14 7V26C14 23 11 22 3 23ZM25 4H17C15 4 14 5 14 7V26C14 23 17 22 25 23Z"/><path d="M7 10H10M7 14H10M18 10H21M18 14H21"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="77" y="48" fill="#17273D" font-size="21" font-weight="600" letter-spacing="-.4">RecipeP</text>
+    <text x="20" y="99" fill="#52637A" font-size="15">Discover recipes by ingredients.</text>
+    <text x="20" y="150" fill="#33714D" font-size="13" font-weight="500">Explore live app</text>
+  </g>
+  <path d="M326 143H338V155M338 143L326 155" stroke="#33714D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="116" viewBox="0 0 174 116" fill="none">
+  <title>GenAI / LLM Integration</title>
+  <rect x=".5" y=".5" width="173" height="107" rx="10" fill="#F8FAFC" stroke="#D9E1EB"/>
+  <g transform="translate(74 15)" stroke="#526985" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M13 3L16 11L24 14L16 17L13 25L10 17L2 14L10 11Z"/><path d="M23 2V8M20 5H26"/></g>
+  <g fill="#25364C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle" font-size="13" font-weight="500">
+    <text x="87" y="72">GenAI / LLM</text><text x="87" y="90">Integration</text>
+  </g>
+</svg>

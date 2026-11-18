@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="188" viewBox="0 0 360 188" fill="none">
+  <title>More projects — link pending</title>
+  <desc>Additional work will appear here.</desc>
+  <rect x=".5" y=".5" width="359" height="175" rx="10" fill="#F8FAFC" stroke="#D9E1EB"/>
+  <rect x="20" y="22" width="43" height="43" rx="10" fill="#59697E" fill-opacity=".1"/>
+  <g transform="translate(28 29)" stroke="#59697E" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="8" height="8" rx="2"/><rect x="18" y="3" width="8" height="8" rx="2"/><rect x="3" y="18" width="8" height="8" rx="2"/><path d="M22 18V26M18 22H26"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="77" y="48" fill="#17273D" font-size="21" font-weight="600" letter-spacing="-.4">More projects</text>
+    <text x="20" y="99" fill="#52637A" font-size="15">Additional work will appear here.</text>
+    <text x="20" y="150" fill="#52637A" font-size="13" font-weight="500">To be added</text>
+  </g>
+  <circle cx="334" cy="149" r="3" fill="#52637A" fill-opacity=".55"/>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="188" viewBox="0 0 360 188" fill="none">
+  <title>Employee Dashboard — link pending</title>
+  <desc>Live URL pending verification.</desc>
+  <rect x=".5" y=".5" width="359" height="175" rx="10" fill="#111923" stroke="#2B3542"/>
+  <rect x="20" y="22" width="43" height="43" rx="10" fill="#60C5CE" fill-opacity=".1"/>
+  <g transform="translate(28 29)" stroke="#60C5CE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><circle cx="10" cy="9" r="4"/><path d="M2 25V22C2 17 5 15 10 15C15 15 18 17 18 22V25M20 5C25 5 27 12 21 14M23 18C26 19 27 21 27 25"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="77" y="48" fill="#EDF2F8" font-size="21" font-weight="600" letter-spacing="-.4">Employee Dashboard</text>
+    <text x="20" y="99" fill="#A8B5C6" font-size="15">Live URL pending verification.</text>
+    <text x="20" y="150" fill="#A8B5C6" font-size="13" font-weight="500">Link coming soon</text>
+  </g>
+  <circle cx="334" cy="149" r="3" fill="#A8B5C6" fill-opacity=".55"/>
+</svg>

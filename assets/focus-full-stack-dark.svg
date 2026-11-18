@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="116" viewBox="0 0 174 116" fill="none">
+  <title>Full-Stack Development</title>
+  <rect x=".5" y=".5" width="173" height="107" rx="10" fill="#111923" stroke="#2B3542"/>
+  <g transform="translate(74 15)" stroke="#60C5CE" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="25" height="21" rx="3"/><path d="M2 10H27M7 7H8M12 7H13M8 16L5 19L8 22M21 16L24 19L21 22M16 15L13 23"/></g>
+  <g fill="#D9E2EF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle" font-size="13" font-weight="500">
+    <text x="87" y="72">Full-Stack</text><text x="87" y="90">Development</text>
+  </g>
+</svg>

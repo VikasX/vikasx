@@ -45,11 +45,11 @@ Selected public applications and upcoming work. Linked cards open the deployed a
     <img src="./assets/cinescope-light.svg" width="360" alt="CineScope — A movie discovery experience. Open the live application." />
   </picture>
   </a>
-  <a href="https://resume-cover-ui.vercel.app/">
+  <a href="https://product-decision-ui.vercel.app/">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/resume-analyzer-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/resume-analyzer-light.svg" />
-    <img src="./assets/resume-analyzer-light.svg" width="360" alt="AI Resume Analyzer — AI-assisted resume analysis. Open the live application." />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/buywise-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/buywise-light.svg" />
+    <img src="./assets/buywise-light.svg" width="360" alt="BuyWise AI — AI-assisted product analysis. Open the live application." />
   </picture>
   </a>
   <a href="https://finance-nxt.vercel.app/">
@@ -64,6 +64,13 @@ Selected public applications and upcoming work. Linked cards open the deployed a
     <source media="(prefers-color-scheme: dark)" srcset="./assets/employee-dashboard-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/employee-dashboard-light.svg" />
     <img src="./assets/employee-dashboard-light.svg" width="360" alt="Employee Dashboard ? An employee management workspace. Open the live application." />
+  </picture>
+  </a>
+  <a href="https://resume-cover-ui.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/resume-analyzer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/resume-analyzer-light.svg" />
+    <img src="./assets/resume-analyzer-light.svg" width="360" alt="AI Resume Analyzer — AI-assisted resume analysis. Open the live application." />
   </picture>
   </a>
   <a href="https://mario-n-mush.vercel.app/">

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="188" viewBox="0 0 360 188" fill="none">
+  <title>BuyWise AI — live application</title>
+  <desc>AI-assisted product analysis.</desc>
+  <rect x=".5" y=".5" width="359" height="175" rx="10" fill="#F8FAFC" stroke="#D9E1EB"/>
+  <rect x="20" y="22" width="43" height="43" rx="10" fill="#14543D" fill-opacity=".1"/>
+  <g transform="translate(28 29)" stroke="#14543D" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M5 10h18l1 14H4L5 10Z"/><path d="M9 10V7a5 5 0 0 1 10 0v3"/></g>
+  <g font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="77" y="48" fill="#17273D" font-size="21" font-weight="600" letter-spacing="-.4">BuyWise</text>
+    <text x="165" y="48" fill="#C49532" font-size="21" font-weight="600" letter-spacing="-.4">AI</text>
+    <text x="20" y="99" fill="#52637A" font-size="15">AI-assisted product analysis.</text>
+    <text x="20" y="150" fill="#14543D" font-size="13" font-weight="500">Explore live app</text>
+  </g>
+  <path d="M326 143H338V155M338 143L326 155" stroke="#14543D" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
